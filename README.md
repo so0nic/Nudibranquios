@@ -8,9 +8,9 @@
 </head>
 <body bgcolor="#000000">
     <!--Titulo-->
-    <h1 class="center"><font color="61ECFA"><b>Nud</font><font color="FF00FF">ibr</font><font color="F0FF00">anq</font><font color="2AFF00">uios</b></font></h1>
+    <h1 class="center"><font color="61ECFA"><b>Nud<font color="FF00FF">ibr</font><font color="F0FF00">anq</font><font color="2AFF00">uios</font>
     <!--Primer texto-->
-    <h3><font color="#89FF04"><h4>Son una especie de moluscos tóxicos, también conocidos como babosas marinas, ya que estos viven en el fondo del mar y suelen ser vistos por los buceadores, quienes son atraidos por ellos debido a sus colores.</font></h3>
+    <h3><font color="#89FF04"><h4>Son una especie de moluscos tóxicos, también conocidos como babosas marinas, ya que estos viven en el fondo del mar y suelen ser vistos por los buceadores, quienes son atraidos por ellos debido a sus colores.
 <hr align="left" widht="%300" size="3" color="#FF00FF" noshade>
 
     
@@ -28,5 +28,4 @@
 <img src="nudi4.jpg" height="300">
 <img src="nudi5.jpg" height="300">
 <img src="nudi6.jpg" height="300">
-</b></body>
-</html>
+
