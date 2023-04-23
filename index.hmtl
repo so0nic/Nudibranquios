@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
+   
         p.sansserif {
 font-family: Arial, Helvetica, sans-serif;
    }
@@ -15,7 +16,7 @@ font-family: Arial, Helvetica, sans-serif;
    }
     </style>
 </head>
-<bgcolor="#000000">
+<body bgcolor="#000000">
     <!--Titulo-->
     <h1 class="center"><font color="61ECFA"><b>Nud<font color="FF00FF">ibr</font><font color="F0FF00">anq</font><font color="2AFF00">uios
     <!--Primer texto-->
